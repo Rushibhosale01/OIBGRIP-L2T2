@@ -21,24 +21,24 @@ body{
     box-shadow: none !important;
     padding: 8px 25px;
     border-radius: 2px !important;
-    border: 2px solid #3c366b !important;
-    color: #3c366b !important;
+    border: 2px solid #605f68 !important;
+    color: #605f68 !important;
     background: none !important;
 
 }
 .btn-primary:hover{
-    background: #3c366b !important;
+    background: #605f68 !important;
     color: #fff !important;
     border: 2px solid #fff !important;
 }
 
 #life{
     padding: 50px 0;
-    color: #3c366b;
+    color: #605f68;
 }
 .title::before{
     content: '';
-    background: #3c366b;
+    background: #605f68;
     height: 5px;
     width: 200px;
     margin-left: auto;
